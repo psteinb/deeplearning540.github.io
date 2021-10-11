@@ -3,7 +3,7 @@ Lesson 06: Classification by a Neural Network using Keras
 
 All content is taken from `here <https://carpentries-incubator.github.io/deep-learning-intro/02-keras/index.html>`_.
 
-* Part 1 starts from the beginning and
+* Part 1 starts from the beginning and stops after the model training loop has finished
 * Part 2 continues to the end of the content
 
 Check Your Learning
